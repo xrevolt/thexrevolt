@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ui-footer .ui-navbar .ui-link img {
+	max-width: 100%;
+}
