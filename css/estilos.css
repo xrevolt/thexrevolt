@@ -4,3 +4,10 @@
 .ui-footer .ui-navbar .ui-link img {
 	max-width: 100%;
 }
+
+
+img.img-responsive {
+   max-width: 100%;
+   height: auto;
+   margin-bottom: 15px;
+} 
