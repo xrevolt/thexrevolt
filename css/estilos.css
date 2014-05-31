@@ -11,3 +11,6 @@ img.img-responsive {
    height: auto;
    margin-bottom: 15px;
 } 
+.ui-navbar li:last-child .ui-btn {
+	margin-right: 0;
+}
